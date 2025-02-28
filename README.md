@@ -1,5 +1,59 @@
 # vcspractical1
 version control 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Q.2)  
+
 Jira Sprint Management
 
     Create a sprint and move backlog items into it:
