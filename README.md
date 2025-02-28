@@ -1,5 +1,7 @@
 # vcspractical1
 version control 
+Q1
+
 
 
 
@@ -86,6 +88,18 @@ Assign the appropriate roles (e.g., Project Lead, Developer) to the client's tea
 
 
 
+Q3) 
+JQL Search Queries
+
+
+assignee = currentUser() AND status = "In Progress"
+
+sprint in openSprints() AND status != "Done"
+
+
+labels = "Bug" AND created >= -7d
+
+assignee = currentUser() AND status != "Done"
 
 
 
