@@ -1,11 +1,8 @@
 # vcspractical1
-version control system
-
-jira sprint managem
-Jira Sprint & Epic Management
+version control 
+Jira Sprint Management
 
     Create a sprint and move backlog items into it:
-
 Go to the Backlog of your project.
 
 Click Create Sprint in the backlog section.
@@ -13,6 +10,38 @@ Click Create Sprint in the backlog section.
 Drag and drop items (user stories, tasks) into the sprint.
 
 When ready, click Start Sprint to begin the sprint.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     Close the sprint and move incomplete tasks to the next sprint:
 
@@ -36,4 +65,43 @@ After creating the project, go to Project settings > Permissions.
 
 Assign the appropriate roles (e.g., Project Lead, Developer) to the client's team members and set up permissions to restrict or allow access as necessary.
 
-444445555.....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
